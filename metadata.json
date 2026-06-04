@@ -1,0 +1,6 @@
+{
+  "name": "Babu Rao and Deepika Wedding E-Invitation",
+  "description": "An elegant Christian wedding e-invitation for Babu Rao and Deepika marriage on June 11, 2026. Features the beautiful couple slides, dynamic timeline, location, interactive RSVP form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
